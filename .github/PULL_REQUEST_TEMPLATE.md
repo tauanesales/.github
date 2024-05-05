@@ -6,13 +6,13 @@ Este PR [adiciona/remove/corrige/substitui] o [recurso/erro/etc].
 
 ## Que tipo de PR é este? (marque todos os aplicáveis)
 
-- [ ] 🍕 Recurso
-- [ ] 🐛 Correção de Erro
+- [ ] 🍕 Recurso (Feature)
+- [ ] 🐛 Correção de Erro (Bugfix)
 - [ ] 📝 Atualização de Documentação
 - [ ] 🎨 Estilização
 - [ ] 🧑‍💻 Refatoração de Código
 - [ ] 🔥 Melhorias de Desempenho
-- [ ] ✅ Testes
+- [ ] ✅ Testes (unitários/integração/e2e)
 - [ ] 🤖 Compilação
 - [ ] 🔁 Integração Contínua
 - [ ] 📦 Tarefa (Nova versão)
