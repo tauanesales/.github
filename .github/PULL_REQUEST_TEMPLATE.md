@@ -61,6 +61,6 @@ Backend: Deve-se colocar prints/vídeos curtos testando as alterações comporta
   Antes de enviar um Pull Request, por favor, certifique-se de ter feito o seguinte:
   - 👷‍♀️ Crie PRs pequenos. Na maioria dos casos, isso será possível.
   - ✅ Forneça testes para suas alterações, sempre que possível.
-  - 📝 Use mensagens de commit descritivas.
+  - 📝 Use mensagens de commit descritivas. Veja https://www.conventionalcommits.org/pt-br/v1.0.0/
   - 📗 Atualize qualquer documentação relacionada e inclua capturas de tela relevantes.
 -->
