@@ -1,10 +1,10 @@
 ## Descrição
-
 <!-- Por favor, não deixe a descrição em branco -->
 
 Este PR [adiciona/remove/corrige/substitui] o [recurso/erro/etc].
 
 ## Que tipo de PR é este? (marque todos os aplicáveis)
+<!-- Caso tenha dificuldade em marcas os checkboxes, abra o PR primeiro e clique no checkbox posteriormente -->
 
 - [ ] 🍕 Recurso (Feature)
 - [ ] 🐛 Correção de Erro (Bugfix)
@@ -19,17 +19,21 @@ Este PR [adiciona/remove/corrige/substitui] o [recurso/erro/etc].
 - [ ] ⏩ Reverter
 
 ## Issues/Tickets e Documentos Relacionados
-
-<!-- Use este formato para vincular seu PR a uma issue do GitHub: Corrige #123
+<!--
+Use este formato para vincular seu PR a uma issue do GitHub: Resolves #123
+Ao víncular um Pull Request a uma issue, a issue é fechada automaticamente ao mergear o Pull Request.
 https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-github/linking-a-pull-request-to-an-issue#linking-a-pull-request-to-an-issue-using-a-keyword 
 -->
 
-## Capturas de Tela/Gravações para Dispositivos Móveis e Desktop
 
-<!-- Mudanças visuais requerem capturas de tela -->
+## Capturas de Tela/Gravações para Dispositivos Móveis e Desktop
+<!--
+Frontend: Mudanças visuais requerem capturas de tela.
+Backend: Deve-se colocar prints/vídeos curtos testando as alterações comportamentais também.
+-->
+
 
 ## Passos para a QA
-
 <!-- Forneça alguns passos para o revisor testar sua mudança. Se você escreveu testes, pode mencioná-los aqui. Ex.:
 
 1. Clique em um link
@@ -37,11 +41,12 @@ https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-git
 3. Valide que você vê a coisa funcionando
 -->
 
+
 ## Adicionado à Documentação?
 
 ## [opcional] Existem tarefas pós-implementação que precisamos realizar?
-
 <!-- Ex.: Necessário adicionar variáveis de ambiente nos ambientes de desenvolvimento/produção? -->
+
 
 
 <!-- nota: PRs com seções deletadas serão marcados como inválidos -->
